@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @MelvinBerkoh
+- 👋 Hi, I’m MelvinBerkoh
 - 👀 I’m interested in Web development 
 - 🌱 I’m currently learning Html and Css
 - 💞️ I’m looking to collaborate on  any website that can teach me something 

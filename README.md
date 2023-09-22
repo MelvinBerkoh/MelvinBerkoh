@@ -1,4 +1,4 @@
-FUll Stack Dev...trying to be
+Front-End Dev...
 
 
 

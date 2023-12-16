@@ -1,9 +1,3 @@
-Current Student at NJIT. Im passionate in becoming a Full Stack developer.I am look to make connections and hopefully get internships for the summer of 2024. Over the summer of 2023 I have worked as an Intern at Mendham Township. I am experienced in end user engagement and data management.
-
+Current Student at NJIT. Im passionate in becoming a Full Stack developer. In hopes of getting hired upon gratuation i plan on learning how to use github for version control, pull requests, Code Hosting for a webiste in reactjs and finally collaboration with others.
 
 contact: Melvinberkoh@gmail.com
-
-<!---
-MelvinBerkoh/MelvinBerkoh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->

@@ -1,3 +1,3 @@
  Student at NJIT.
- Goals : Full Stack Developer
+ Goals : Developer
 

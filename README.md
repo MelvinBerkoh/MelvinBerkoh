@@ -1,1 +1,1 @@
-A Computer Science graduate from NJIT focused on frontend engineering 
+A Computer Science graduate from NJIT focused on frontend engineering.

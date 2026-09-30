@@ -1,8 +1,3 @@
-# Hey, I'm Melvin 
-
-I'm a Computer Science graduate from NJIT focused on building practical software and learning how real systems work end to end.
-
-I enjoy working across frontend, backend, databases, APIs, and data pipelines. Most of my projects come from problems I actually wanted to solve, not just tutorial clones.
 
 ## What I'm working on
 

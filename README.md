@@ -22,7 +22,3 @@ I'm currently sharpening my skills in:
 - System design
 - Testing and production-ready development
 
-## Connect With Me
-
-- Portfolio: https://portfolio-ten-olive-82.vercel.app
-- LinkedIn: https://www.linkedin.com/in/melvinberkoh/

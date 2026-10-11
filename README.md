@@ -12,13 +12,4 @@ Node.js · Express · Prisma · PostgreSQL · REST APIs · dbt
 **Tools:**  
 Git · GitHub · Linux · Bash · Vercel · AWS
 
-## Current Focus
-
-I'm currently sharpening my skills in:
-
-- Software engineering
-- Full-stack development
-- Data engineering
-- System design
-- Testing and production-ready development
 

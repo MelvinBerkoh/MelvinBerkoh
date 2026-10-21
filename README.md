@@ -12,9 +12,7 @@ Node.js · Express · Prisma · PostgreSQL · REST APIs · dbt
 **Tools:**  
 Git · GitHub · Linux · Bash · Vercel · AWS
 
-**Current**
-
-My Read me is going to be updated pretty soon
+I love to build
 
 
 
